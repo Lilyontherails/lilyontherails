@@ -35,10 +35,10 @@ as is the case in HoYoverse games such as Genshin Impact and Honkai: Star Rail.
     which is the same probability distribution but for an experiment whose success and failure probabilities are
     constant.
 
-[^2]: Frizu, "Arknights’ Non-6★ Headhunting Streak EDA". https://rpubs.com/Frizu/arknightsgacha
+[^2]: Frizu, "Arknights’ Non-6★ Headhunting Streak EDA". <https://rpubs.com/Frizu/arknightsgacha>
 
 [^3]: Ayane Satomi, "Mapping out Gacha Pull Probabilities using Python and Google Colaboratory". 
-    https://dev.to/sr229/mapping-out-gacha-pull-probabilities-in-google-colaboratory-3ij9
+    <https://dev.to/sr229/mapping-out-gacha-pull-probabilities-in-google-colaboratory-3ij9>
 
 In August 2024 I was introduced to a clicker minigame bot called 
 [Grow A Tree](https://discord.com/application-directory/972637072991068220) when the bot was added to a
