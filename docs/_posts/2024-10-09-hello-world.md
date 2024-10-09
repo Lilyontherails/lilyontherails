@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello, world!"
-date: 2024-09-10
+date: 2024-10-09
 categories: misc
 ---
 
