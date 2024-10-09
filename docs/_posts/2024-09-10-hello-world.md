@@ -20,7 +20,7 @@ Back in October 2020, [SurfChu85](https://x.com/SurfChu85), [Ayane Satomi](https
 [KaidenFrizu](https://github.com/KaidenFrizu), and I (who is known as [Eyenine](https://osu.ppy.sh/users/1259391) 
 in the osu! community) did some statistical analysis on Arknights's gacha system, known in-game as 
 "headhunting". Specifically, from a known time-dependent but resetting function for the success 
-probability of getting a 6\* operator, we simulated the gacha and obtained a "negative distribution"[^1]" 
+probability of getting a 6\* operator, we simulated the gacha and obtained a "negative distribution"[^1] 
 and an estimate for the expected value of number of failed pulls before getting a successful 6\* operator 
 pull. Frizu[^2] and Ayane[^3] documented their part of the work, including codes written in R and 
 Python and results. I revisited the problem in 2023 using a more analytical approach and found a mathematical
@@ -38,7 +38,7 @@ as is the case in HoYoverse games such as Genshin Impact and Honkai: Star Rail.
 [^2]: Frizu, "Arknights’ Non-6★ Headhunting Streak EDA". https://rpubs.com/Frizu/arknightsgacha
 
 [^3]: Ayane Satomi, "Mapping out Gacha Pull Probabilities using Python and Google Colaboratory". 
-https://dev.to/sr229/mapping-out-gacha-pull-probabilities-in-google-colaboratory-3ij9
+  https://dev.to/sr229/mapping-out-gacha-pull-probabilities-in-google-colaboratory-3ij9
 
 In August 2024 I was introduced to a clicker minigame bot called 
 [Grow A Tree](https://discord.com/application-directory/972637072991068220) when the bot was added to a
@@ -52,3 +52,5 @@ I looked into the most coin-optimal way to upgrade the composter to maximum effi
 
 More updates will be posted in the future as they come. The spontaneous nature of the ideas for these posts 
 means that update schedules are bound to be infrequent and erratic.
+
+---
