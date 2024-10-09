@@ -22,7 +22,7 @@ in the osu! community) did some statistical analysis on Arknights's gacha system
 "headhunting". Specifically, from a known time-dependent but resetting function for the success 
 probability of getting a 6\* operator, we simulated the gacha and obtained a "negative distribution"[^1]" 
 and an estimate for the expected value of number of failed pulls before getting a successful 6\* operator 
-pull. Frizu ([^2]) and Ayane ([^3]) documented their part of the work, including codes written in R and 
+pull. Frizu[^2] and Ayane[^3] documented their part of the work, including codes written in R and 
 Python and results. I revisited the problem in 2023 using a more analytical approach and found a mathematical
 expression for the negative distribution. It may be possible to use this result to reproduce the success 
 probability function of a similar gacha system given the base success rate and the effective success rate, 
