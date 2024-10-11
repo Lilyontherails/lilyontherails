@@ -1,3 +1,3 @@
-I literally made a GitHub account just to try out GitHub pages.
-
+I literally made a GitHub account just to try out GitHub pages.  
+No, I am not a dev, not even close.  
 There is nothing to see here.
